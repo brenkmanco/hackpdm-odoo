@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_pdm_node,pdm.node,model_pdm_node,,1,1,1,1
+access_pdm_category,pdm.category,model_pdm_category,,1,1,1,1
+access_pdm_directory,pdm.directory,model_pdm_directory,,1,1,1,1
+access_pdm_type,pdm.type,model_pdm_type,,1,1,1,1
+access_pdm_entry_name_filter,pdm.entry.name.filter,model_pdm_entry_name_filter,,1,1,1,1
+access_pdm_entry,pdm.entry,model_pdm_entry,,1,1,1,1
+access_pdm_version,pdm.version,model_pdm_version,,1,1,1,1
+access_pdm_property,pdm.property,model_pdm_property,,1,1,1,1
+access_pdm_version_property,pdm.version.property,model_pdm_version_property,,1,1,1,1
+access_pdm_category_property,pdm.category.property,model_pdm_category_property,,1,1,1,1
+access_pdm_version_relationship,pdm.version.relationship,model_pdm_version_relationship,,1,1,1,1
